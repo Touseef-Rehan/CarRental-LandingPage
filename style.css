@@ -474,9 +474,8 @@ body {
 }
 
 
-
-
-
-
-/*bootstrap code*/
-
+.WebContainer{
+    width:100%;
+    min-width:1000px;
+    height:auto;
+}
